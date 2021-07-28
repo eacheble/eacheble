@@ -7,4 +7,6 @@ My interests vary from 📺&nbsp; movies (sci-fi fan) & tv shows to amateur guit
 Married to Veronica (she's the one in the cover pic applying a massive Hadōken on me)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/echeble/)&nbsp;&nbsp;&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=for-the-badge&logo=instagram&logoColor=white&?labelColor=8A49A1&color=C1558B)](https://www.instagram.com/eacheble/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=for-the-badge&logo=instagram&logoColor=white&color=C1558B)](https://www.instagram.com/eacheble/)&nbsp;&nbsp;&nbsp;
+[![Spotify Badge](https://img.shields.io/badge/Spotify-Profile?style=for-the-badge&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/user/eacheble?si=18ec78a20d57415b)
+
